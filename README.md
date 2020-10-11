@@ -1,2 +1,2 @@
 # p.learning
-Only for learning C coding
+Only to learn C coding. Sources by ffont28
