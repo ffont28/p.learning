@@ -15,9 +15,9 @@ int main(void){
 
 	for (ri=0;ri<LUN;ri++){				//	INIZIALIZZO
 		for (co=0;co<LUN;co++){			//	ARRAY
-			array[ri][co]='.';			//	CON
-		}								//	TUTTI
-	} 									//	PUNTINI
+			array[ri][co]='.';		//	CON
+		}					//	TUTTI
+	} 						//	PUNTINI
 	
 	ri=0;
 	co=0;	
@@ -46,7 +46,7 @@ label:		randdirez=rand();
 			}
 			printf("POSIZIONE OK CON MOSSA: %d , ho messo %c in posizione [%d:%d]\n",randdirez%4,contlet,ri,co);			
 		}
-	}											// FINE PASSEGGIATA
+	}						// FINE PASSEGGIATA
 
 
 	printf("\n ORA (RI)STAMPO\n\n");
