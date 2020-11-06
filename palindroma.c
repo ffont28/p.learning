@@ -2,6 +2,7 @@
 Questo programma legge in input da linea di comando una parola (dopo il comando /a.out) e restituisce una stinga
 che segnala se la parola è inserita è palindroma o meno. Per semplicità viene letta e considerata solamente la prima parola
 dopo la chiamata ad esecuzione del codice.
+[in LUBUNTU 'attraversa.c']
 Ultima rev. 6/11/2020 ffont28
 */
 #include <stdio.h> 
